@@ -8,7 +8,7 @@ A simple script for grabbing a Steam user's last log off time and writing it to 
 
 ## Installation
 
-Download lastlogoff.py and edit the variables API_KEY, user, and logfile.
+Download [lastlogoff.py](https://github.com/4AEM/steam-last-log-off/blob/main/lastlogoff.py) and edit the variables API_KEY, user, and logfile.
 
 ## License
 
